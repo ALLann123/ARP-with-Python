@@ -10,8 +10,10 @@ Run the script above onthe terminal:
     kali> python3 arp_detector.py
 
 To test if it works run the tool arpspoof on a target e.g metasploitable2 machine connected to the same network as the kali machine and after sometime cancel the arp attack using ctrl+c and observe the output by the script above detecting the attack.
-![detectiom_arp](https://github.com/user-attachments/assets/ea960050-ef2d-4f13-90b1-a119575bb8ba)
 ![arp attack](https://github.com/user-attachments/assets/c01c8f47-04b8-4aaf-a4b4-ef13e113a7bb)
+# Results from the ARP Detector
+![detectiom_arp](https://github.com/user-attachments/assets/ea960050-ef2d-4f13-90b1-a119575bb8ba)
+
 
 
 
